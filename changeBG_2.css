@@ -31,7 +31,7 @@ section.is-visible h2 {
 }
 
 section:nth-child(2n) {
-  background-color: turquoise;
+  background-color: red;
 }
 
 section:nth-child(3n) {
