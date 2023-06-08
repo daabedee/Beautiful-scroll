@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: 'Helvetica', sans-serif;
+  letter-spacing: 30px;
 }
 
 .scroll-container {
